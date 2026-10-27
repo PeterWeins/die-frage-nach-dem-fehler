@@ -5,6 +5,8 @@
 
 Ein Le.pApP-Projekt von P. Weins. Konzept & Design: P. Weins · realisiert mit Claude (Anthropic).
 
+**Alle Le.pApP-Werkzeuge:** https://lepapp-inklusiv.de/
+
 ## Inhalt
 
 | Seite | Wofür |
